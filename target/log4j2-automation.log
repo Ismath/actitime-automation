@@ -1,0 +1,39 @@
+[INFO ] 2022-11-06 20:58:22.265 [main] Utils - [TestNG] Running:
+  /home/nasmin/.cache/JetBrains/IntelliJIdea2020.1/temp-testng-customsuite.xml
+
+[INFO ] 2022-11-06 20:58:23.328 [main] WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+[INFO ] 2022-11-06 20:58:23.339 [main] WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+[INFO ] 2022-11-06 20:58:23.899 [main] Downloader - Downloading https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_linux64.zip
+[INFO ] 2022-11-06 20:58:24.194 [main] Downloader - Extracting driver from compressed file chromedriver_linux64.zip
+[INFO ] 2022-11-06 20:58:24.266 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/nasmin/.cache/selenium/chromedriver/linux64/106.0.5249.61/chromedriver
+[WARN ] 2022-11-06 20:58:24.623 [main] Log - [DATA PROVIDER] TEST DATA: 3
+[INFO ] 2022-11-06 20:58:28.705 [main] Log - USER HAS ENTERED USERNAME: admin
+[INFO ] 2022-11-06 20:58:28.757 [main] Log - USER HAS ENTERED PASSWORD: manager
+[INFO ] 2022-11-06 20:58:28.798 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-06 20:58:30.515 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-06 20:58:33.569 [main] Log - USER HAS ENTERED USERNAME: trainee
+[INFO ] 2022-11-06 20:58:33.619 [main] Log - USER HAS ENTERED PASSWORD: trainee
+[INFO ] 2022-11-06 20:58:33.657 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-06 20:58:37.319 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-06 20:58:40.332 [main] Log - USER HAS ENTERED USERNAME: nasmin
+[INFO ] 2022-11-06 20:58:40.380 [main] Log - USER HAS ENTERED PASSWORD: nasmin
+[INFO ] 2022-11-06 20:58:40.429 [main] Log - USER IS STAYING LOGGED IN
+[ERROR] 2022-11-06 20:58:45.829 [main] Log - [SCREENSHOT] SAVED: ss-2022-11-06-20-58-45.png
+[INFO ] 2022-11-06 21:00:00.720 [main] Utils - [TestNG] Running:
+  /home/nasmin/.cache/JetBrains/IntelliJIdea2020.1/temp-testng-customsuite.xml
+
+[INFO ] 2022-11-06 21:00:00.981 [main] WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+[INFO ] 2022-11-06 21:00:00.994 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/nasmin/.cache/selenium/chromedriver/linux64/106.0.5249.61/chromedriver
+[WARN ] 2022-11-06 21:00:01.348 [main] Log - [DATA PROVIDER] TEST DATA: 3
+[INFO ] 2022-11-06 21:00:05.270 [main] Log - USER HAS ENTERED USERNAME: admin
+[INFO ] 2022-11-06 21:00:05.320 [main] Log - USER HAS ENTERED PASSWORD: manager
+[INFO ] 2022-11-06 21:00:05.362 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-06 21:00:07.108 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-06 21:00:10.030 [main] Log - USER HAS ENTERED USERNAME: trainee
+[INFO ] 2022-11-06 21:00:10.077 [main] Log - USER HAS ENTERED PASSWORD: trainee
+[INFO ] 2022-11-06 21:00:10.120 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-06 21:00:13.989 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-06 21:00:16.828 [main] Log - USER HAS ENTERED USERNAME: ismath
+[INFO ] 2022-11-06 21:00:16.877 [main] Log - USER HAS ENTERED PASSWORD: ismath
+[INFO ] 2022-11-06 21:00:16.917 [main] Log - USER IS STAYING LOGGED IN
+[ERROR] 2022-11-06 21:00:22.338 [main] Log - [SCREENSHOT] SAVED: ss-2022-11-06-21-00-22.png
